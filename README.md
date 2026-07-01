@@ -10,6 +10,7 @@ Este repositorio contiene el frontend de la aplicación, encargado de la interfa
 
 PokéBloom es una Pokédex web pensada para que cualquier persona explore el catálogo de Pokémon, y para que quien crea una cuenta pueda guardar favoritos, armar equipos, llevar un diario personal y desbloquear insignias jugando dentro de la app. La aplicación tiene tres tipos de usuario. El visitante entra sin cuenta y puede explorar, buscar y ver fichas de Pokémon. La entrenadora tiene cuenta propia y además puede guardar favoritos, armar equipos, jugar el minijuego, escribir en su diario y ver sus estadísticas. El administrador se encarga de mantener el catálogo de Pokémon y de gestionar las cuentas de la comunidad. El siguiente diagrama de contexto resume quién usa el sistema y qué hace con él, incluyendo la verificación de identidad con Gmail para el inicio de sesión externo.
 
+![DiagramaDeContexto.png](docs/Diagrama%20de%20contexto/DiagramaDeContexto.png)
 
 ## Manual de identidad
 
