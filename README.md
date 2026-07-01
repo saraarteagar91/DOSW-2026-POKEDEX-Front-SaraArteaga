@@ -8,17 +8,14 @@ Este repositorio contiene el frontend de la aplicación, encargado de la interfa
 
 ## Documento de contexto
 
-Aquí se debe agregar el documento de contexto del frontend, explicando el alcance de la aplicación desde el punto de vista de la interfaz, los tipos de usuario que la usan, y los flujos principales que se pueden realizar en pantalla.
+PokéBloom es una Pokédex web pensada para que cualquier persona explore el catálogo de Pokémon, y para que quien crea una cuenta pueda guardar favoritos, armar equipos, llevar un diario personal y desbloquear insignias jugando dentro de la app. La aplicación tiene tres tipos de usuario. El visitante entra sin cuenta y puede explorar, buscar y ver fichas de Pokémon. La entrenadora tiene cuenta propia y además puede guardar favoritos, armar equipos, jugar el minijuego, escribir en su diario y ver sus estadísticas. El administrador se encarga de mantener el catálogo de Pokémon y de gestionar las cuentas de la comunidad. El siguiente diagrama de contexto resume quién usa el sistema y qué hace con él, incluyendo la verificación de identidad con Gmail para el inicio de sesión externo.
 
-Enlace al documento de contexto: pendiente por agregar.
 
 ## Manual de identidad
 
 El manual de identidad define la paleta de colores pastel, la tipografía, la iconografía y la mascota de PokéBloom, y debe respetarse en todas las pantallas de la aplicación para mantener una imagen visual coherente.
 
-Enlace o archivo del manual de identidad: pendiente por agregar.
-
-## Prototipo en Figma
+Manual de identidad: [docs/Manual_de_identidad_Pokebloom.pdf](docs/Manual_de_identidad_Pokebloom.pdf)
 
 El prototipo de las pantallas se diseñó siguiendo el manual de identidad de PokéBloom.
 
